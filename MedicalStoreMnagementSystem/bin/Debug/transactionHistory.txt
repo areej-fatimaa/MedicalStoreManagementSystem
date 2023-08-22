@@ -1,0 +1,8 @@
+,,:234,suger machine,1,299
+284.05,,:12343,desprine,1,200
+200,,:0,,:234,suger machine,1,299
+12343,desprine,1,200
+499,,:0,,:12343,desprine,2,200
+234,suger machine,2,299
+948.1,,:12343,desprine,2,200
+400
